@@ -60,4 +60,3 @@ CREATE TABLE SUCURSAL
 	Provincia nvarchar(40) not null,
 	Fk_Pais_PaisId int not null
 )
-go
